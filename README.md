@@ -2,7 +2,7 @@
 # Mint Official Website
 
 - I'm developing this website for a student community in [Yildiz Technical University](https://yildiz.edu.tr/en) 
-- You can reach current version of the website via [this link](https://iaesteyildiz.netlify.app/)
+- You can reach current version of the website via 
 
 ## About The Project
 
