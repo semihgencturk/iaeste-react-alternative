@@ -1,7 +1,8 @@
 
-# Mint Official Website
+# Iaeste Official Website (Alternative)
 
-- I'm developing this website for a student community in [Yildiz Technical University](https://yildiz.edu.tr/en) 
+- It is an alternative website for the main project I developed for a student community in [Yildiz Technical University](https://yildiz.edu.tr/en)
+- You can reach the main project I deployed as a product via [this link](https://github.com/semihgencturk/project-mint-react) 
 - You can reach current version of the website via 
 
 ## About The Project
